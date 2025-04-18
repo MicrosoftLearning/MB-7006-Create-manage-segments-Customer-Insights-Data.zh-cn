@@ -1,11 +1,3 @@
-#README
-
-We've turned off the ability to report issues directly on this repo and do not monitor PRs.
-
-Provide feedback here: https://aka.ms/provide-feedback
-
-Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
-
 # MB-7006 - 在 Dynamics 365 Customer Insights - Data 中创建和管理客户细分
 
 此存储库包含 MB-7006 - 在 Dynamics 365 Customer Insights – Data 中创建和管理客户细分的练习和支持文件。 本课程专为计划使用 Dynamics 365 Customer Insights – Data 来统一组织的不同数据系统并根据统一数据中的客户和业务属性创建强大的客户细分的学员而设计。
